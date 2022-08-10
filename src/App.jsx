@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import elviejo from './assets/elviejo.webp'
+import github from './assets/github.webp'
 import './App.css'
 
 function App() {
@@ -22,6 +23,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Viejo to learn more
       </p>
+      <a href="https://github.com/damianmicheli/hola-viteh" target="_blank">
+      <img src={github} width="120px" alt="Github logo" />
+      </a>
     </div>
   )
 }
