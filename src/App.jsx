@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hola viteh! Esta es la ramita</h1>
+      <h1>Hola viteh!</h1>
       <a href="https://www.youtube.com/watch?v=AOaTP9g4Uw4&ab_channel=LuisM." target="_blank">
       <img src={elviejo} className="Viejo" alt="React logo" />
       </a>
@@ -21,7 +21,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Viejo to learn more
       </p>
     </div>
   )
