@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import elviejo from './assets/elviejo.webp'
 import './App.css'
 
