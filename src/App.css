@@ -5,15 +5,15 @@
   text-align: center;
 }
   
-.logo {
+.Viejo {
   height: 16em;
   padding: 1.5em;
   will-change: filter;
 }
-.logo:hover {
+.Viejo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
-.logo.react:hover {
+.Viejo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
@@ -27,7 +27,7 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
+  .Viejo {
     animation: logo-spin infinite 20s linear;
   }
 }

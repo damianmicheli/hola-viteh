@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <h1>Hola viteh!</h1>
       <a href="https://www.youtube.com/watch?v=AOaTP9g4Uw4&ab_channel=LuisM." target="_blank">
-      <img src={elviejo} className="logo react" alt="React logo" />
+      <img src={elviejo} className="Viejo" alt="React logo" />
       </a>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
